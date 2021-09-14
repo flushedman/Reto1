@@ -1,0 +1,29 @@
+.mensaje{
+
+    padding-block-start: 20px;
+    padding-block-end: 20px;
+
+}
+
+.mensaje-main{
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font: var(--headline42);
+   
+}
+
+.mensaje-main p:nth-of-type(2){
+  
+    font: var(--headline5);
+}
+
+@media screen and (min-width:768px) {
+    
+    .mensaje-main{
+        padding-block-start: 100px;
+        padding-block-end: 100px;
+    }
+
+}
