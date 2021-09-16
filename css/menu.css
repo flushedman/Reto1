@@ -1,0 +1,44 @@
+.elmenu{
+
+    font-size: 100px;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+
+button1{
+
+    border: none;
+    color: #fff;
+    background-color: rgb(255, 115, 1);
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 12px;
+    padding: 10px 50px;
+
+}
+
+button1:hover{
+
+    color: #fff;
+    background-color: rgb(173, 81, 6);
+}  
+
+.ColorFondo1 {
+
+    background: rgb(49,1,1);
+    display: flex;
+    margin: none;
+    color: #fff;
+    padding: none;
+
+}
+
+.ColorFondo2 {
+    background: rgb(255, 115, 1);
+    display: flex;
+    margin: none;
+    color: #fff;
+    padding: none;
+
+}
